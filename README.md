@@ -87,6 +87,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 For any inquiries, feel free to contact me at:
 
-- Email: your-email@example.com
-- GitHub: [@your-username](https://github.com/your-username)
+- Email: gadafisteve001@gmail.com
+- GitHub: [@your-username](https://github.com/steve-ongera)
 
